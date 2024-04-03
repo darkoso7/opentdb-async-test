@@ -1,0 +1,38 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "What is Tasmania?",
+    "correct_answer": "An Australian State",
+    "incorrect_answers": [
+      "A flavor of Ben and Jerry&#039;s ice-cream",
+      "A Psychological Disorder",
+      "The Name of a Warner Brothers Cartoon Character"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+    "correct_answer": "Coffee Lake",
+    "incorrect_answers": [
+      "Sandy Bridge",
+      "Skylake",
+      "Broadwell"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Gadgets",
+    "question": "Which of the following is used to measure blood pressure?",
+    "correct_answer": "Sphygmomanometer",
+    "incorrect_answers": [
+      "Barometer",
+      "Ruler",
+      "Haemoerythrometer"
+    ]
+  }
+]
